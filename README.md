@@ -25,3 +25,7 @@ int main(int argc, char* argv[])
 }
 ```
 `ver is less than ver2`
+
+## TODO
+- compile-time usage
+- labels (pre-release, beta, etc)
